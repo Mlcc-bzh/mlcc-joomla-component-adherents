@@ -1,0 +1,1 @@
+# mlcc-joomla-component-adherents
